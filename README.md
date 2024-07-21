@@ -1,10 +1,10 @@
 # CODTECH-Task1
 **Name:** Tunuguntla Srivalli Gayathri
-**Company:** CODETECH IT SOLUTIONS
-**ID:** CT12DS1716
-**Domain:** POWER BI
-** Duration:** July to September 2024
-**Mentor:** SANTHOSH
+ **Company:** CODETECH IT SOLUTIONS
+ **ID:** CT12DS1716
+ **Domain:** POWER BI
+ **Duration:** July to September 2024
+ **Mentor:** SANTHOSH
 
 ## Overview of the Project
 ### Project: SALES PERFORMANCE DASHBOARD
