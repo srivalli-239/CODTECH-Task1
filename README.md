@@ -1,4 +1,4 @@
-![Screenshot 2024-07-21 195519](https://github.com/user-attachments/assets/02bd69c9-a83a-49d9-b336-d24c6b1aa182)# CODTECH-Task1
+# CODTECH-Task1
 **Name:** Tunuguntla Srivalli Gayathri
 **Company:** CODETECH IT SOLUTIONS
 **ID:** CT12DS1716
