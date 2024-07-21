@@ -1,5 +1,5 @@
 # CODTECH-Task1
-**Name:** Tunuguntla Srivalli Gayathri__
+**Name:** Tunuguntla Srivalli Gayathri_
 **Company:** CODETECH IT SOLUTIONS
 **ID:** CT12DS1716
 **Domain:** POWER BI
